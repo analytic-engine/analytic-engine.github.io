@@ -2,6 +2,9 @@ body {
 	max-width: 640px;
 	margin-left: auto;
 	margin-right: auto;
+	background-image: url('../image/analytic-engine.jpg');
+	background-position: 50% 0%;
+	background-repeat: no-repeat;
 }
 
 .header, .content {
